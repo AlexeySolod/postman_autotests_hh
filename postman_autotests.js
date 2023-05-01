@@ -1,5 +1,4 @@
 // Автотесты для Postman для эндпойнта
-// https://api.hh.ru/metro/66?text=станции метро
 
 pm.test("Response time is less than 200ms", function () {
     pm.expect(pm.response.responseTime).to.be.below(200);
