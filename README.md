@@ -1,2 +1,2 @@
-# postman_autotests_hh
+# postman_autotests
 Несколько простых автотрестов для Postman на JavaScript
